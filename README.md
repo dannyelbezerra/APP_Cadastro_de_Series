@@ -1,4 +1,3 @@
-#Prática de .NET no bootcamp Decola Tech Avanade - Digital Innovation One
+Prática de .NET no bootcamp Decola Tech Avanade - Digital Innovation One
 
-
-#Criando um APP de cadastro de séries em memória
+Criando um APP de cadastro de séries em memória
